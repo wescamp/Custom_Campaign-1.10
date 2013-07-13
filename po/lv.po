@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom_Campaign-1.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-13 10:16-0400\n"
+"PO-Revision-Date: 2013-07-13 10:16-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+
+#. [multiplayer_side]: id=Custom, type=Custom Campaign Unit
+#: Custom_Campaign/eras/era.cfg:7
+msgid "Custom"
+msgstr ""
+
+#. [multiplayer_side]: id=Random
+#: Custom_Campaign/eras/era.cfg:17
+msgid "Random"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Custom_Campaign/eras/era.cfg:88
+#: Custom_Campaign/scenarios/1p_Custom_Campaign.cfg:85
+msgid "This version of Custom Campaign requires 1.9.10 Wesnoth or later."
+msgstr ""
+
+#. [era]: id=Custom_Campaign_Default
+#: Custom_Campaign/eras/era.cfg:102
+msgid "Custom Campaign + Default"
+msgstr ""
+
+#. [era]: id=Custom_Campaign_AoH
+#: Custom_Campaign/eras/era.cfg:124
+msgid "Custom Campaign + AoH"
+msgstr ""
+
+#. [era]: id=Custom_Campaign_EoL
+#: Custom_Campaign/eras/era.cfg:150
+msgid "Custom Campaign + EoL"
+msgstr ""
+
+#. [lua]: cc.trait_list
+#: Custom_Campaign/lua/cc.lua:1942
+msgid "heroic"
+msgstr ""
+
+#. [lua]: cc.trait_list
+#: Custom_Campaign/lua/cc.lua:1942
+msgid "female^heroic"
+msgstr ""
+
+#. [lua]: cc.get_gender_choice
+#: Custom_Campaign/lua/cc.lua:1980
+msgid "Chose a gender for the unit:"
+msgstr ""
+
+#. [lua]: cc.get_gender_choice
+#: Custom_Campaign/lua/cc.lua:1981
+msgid "Male ♂"
+msgstr ""
+
+#. [lua]: cc.get_gender_choice
+#: Custom_Campaign/lua/cc.lua:1982
+msgid "Female ♀"
+msgstr ""
+
+#. [lua]: cc_get_name_choice
+#: Custom_Campaign/lua/cc.lua:2007
+msgid "Custom / Random"
+msgstr ""
+
+#. [lua]: cc_get_name_choice
+#: Custom_Campaign/lua/cc.lua:2008
+msgid "Choose a name for the unit."
+msgstr ""
+
+#. [lua]: cc_get_name_choice
+#: Custom_Campaign/lua/cc.lua:2014
+msgid "Enter a name for the unit. (Leave blank for random, if applicable)"
+msgstr ""
+
+#. [lua]: cc.get_variation_choice
+#: Custom_Campaign/lua/cc.lua:2241
+msgid "Select a unit variation:"
+msgstr ""
+
+#. [lua]: cc.customize_unit
+#: Custom_Campaign/lua/cc.lua:2258
+msgid "You have chosen "
+msgstr ""
+
+#. [lua]: cc.customize_unit
+#: Custom_Campaign/lua/cc.lua:2259
+msgid "Loyal, random gender, and no other traits"
+msgstr ""
+
+#. [lua]: cc.customize_unit
+#: Custom_Campaign/lua/cc.lua:2259
+msgid "Fully Customize Unit"
+msgstr ""
+
+#. [lua]: cc.customize_unit
+#: Custom_Campaign/lua/cc.lua:2259
+msgid "Regular Random Recruit"
+msgstr ""
+
+#. [lua]: cc.customize_unit
+#: Custom_Campaign/lua/cc.lua:2259
+msgid "With chosen gender and traits unit could normally get (if applicable)"
+msgstr ""
+
+#. [lua]: cc.customize_unit
+#: Custom_Campaign/lua/cc.lua:2297
+msgid "Would you like to make this unit special?"
+msgstr ""
+
+#. [lua]: cc.customize_unit
+#: Custom_Campaign/lua/cc.lua:2298
+msgid "No"
+msgstr ""
+
+#. [lua]: cc.customize_unit
+#: Custom_Campaign/lua/cc.lua:2298
+msgid "Hero"
+msgstr ""
+
+#. [lua]: cc.customize_unit
+#: Custom_Campaign/lua/cc.lua:2298
+msgid "Leader"
+msgstr ""
+
+#. [lua]: cc.customize_unit
+#: Custom_Campaign/lua/cc.lua:2298
+msgid "Expendable Leader"
+msgstr ""
+
+#. [lua]: cc.reset_unit_filters
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2338 Custom_Campaign/lua/cc.lua:2339
+#: Custom_Campaign/lua/cc.lua:2340 Custom_Campaign/lua/cc.lua:2341
+#: Custom_Campaign/lua/cc.lua:2342 Custom_Campaign/lua/cc.lua:2358
+#: Custom_Campaign/lua/cc.lua:2360 Custom_Campaign/lua/cc.lua:2373
+#: Custom_Campaign/lua/cc.lua:2376 Custom_Campaign/lua/cc.lua:2383
+#: Custom_Campaign/lua/cc.lua:2386 Custom_Campaign/lua/cc.lua:2392
+#: Custom_Campaign/lua/cc.lua:2398 Custom_Campaign/lua/cc.lua:2404
+#: Custom_Campaign/lua/cc.lua:2406
+msgid "All"
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2349
+msgid "Click a filter to adjust it."
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2350
+msgid "Alignment: "
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2350
+msgid "Level: "
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2351
+msgid "  (id: "
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2351
+msgid "Move: "
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2351
+msgid "Race: "
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2352
+msgid "Set: "
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2352
+msgid "Reset Filters"
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2357
+msgid "Choose an alignment to filter for:"
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2358 Custom_Campaign/lua/cc.lua:2368
+msgid "Liminal"
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2358 Custom_Campaign/lua/cc.lua:2366
+msgid "Chaotic"
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2358 Custom_Campaign/lua/cc.lua:2364
+msgid "Neutral"
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2358 Custom_Campaign/lua/cc.lua:2362
+msgid "Lawful"
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2374
+msgid "Choose a level number to filter for:"
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2384
+msgid "Choose a move number to filter for:"
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2396
+msgid "Choose a race to filter for:"
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2403
+msgid "Choose a set to filter for:"
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2404 Custom_Campaign/lua/cc.lua:2410
+msgid "Add-On"
+msgstr ""
+
+#. [lua]: cc.unit_filters
+#: Custom_Campaign/lua/cc.lua:2404 Custom_Campaign/lua/cc.lua:2408
+msgid "Core"
+msgstr ""
+
+#. [multiplayer]: id=1p - Custom_Campaign
+#: Custom_Campaign/scenarios/1p_Custom_Campaign.cfg:5
+msgid "1p - Custom Campaign"
+msgstr ""
+
+#. [multiplayer]: id=1p - Custom_Campaign
+#: Custom_Campaign/scenarios/1p_Custom_Campaign.cfg:9
+msgid ""
+"Play any mp map with a persistent army of your design. Configure each battle "
+"with the opponents and settings of your choice.\n"
+"    \n"
+"Instructions:\n"
+"Launch this map with any era to import the selected factions for each side "
+"into the Custom Campaign Side List.\n"
+"Once the map is loaded, you can make armies to play and factions to play "
+"against from the imported sides, or you can make custom ones.\n"
+"    \n"
+"When you have an army ready to play, launch any map using the 'Custom "
+"Campaign' Era.\n"
+"For each side that you set to 'Custom', you'll get to select an army for "
+"your side when the map starts, as well as faction(s) for the other side(s).\n"
+"    \n"
+"When you win the map, your updated army is saved, and a count of your "
+"victories kept.\n"
+"    \n"
+"For use with only one human player."
+msgstr ""
+
+#. [multiplayer]: id=1p - Custom_Campaign
+#: Custom_Campaign/scenarios/1p_Custom_Campaign.cfg:22
+msgid "Version "
+msgstr ""
+
+#. [unit_type]: id=Custom Campaign Unit, race=monster
+#: Custom_Campaign/units/Custom_Campaign_Unit.cfg:8
+msgid "Custom Leader"
+msgstr ""
+
+#. [unit_type]: id=Custom Campaign Unit, race=monster
+#: Custom_Campaign/units/Custom_Campaign_Unit.cfg:21
+msgid "."
+msgstr ""
